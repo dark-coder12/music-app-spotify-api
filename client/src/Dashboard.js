@@ -10,7 +10,7 @@ import SpotifyWebApi from "spotify-web-api-node"
 
 const spotifyApi = new SpotifyWebApi({
 
-  clientId: "08d636577a9c477290759cb20ecd7114",
+  clientId: "",
 })
 
 export default function Dashboard({ code })
